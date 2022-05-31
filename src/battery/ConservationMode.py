@@ -1,5 +1,5 @@
-from battery.CantReadStatusError import CantReadStatusError
-from utils.SysEchoToFile import SysEchoToFile
+from src.battery.CantReadStatusError import CantReadStatusError
+from src.utils.SysEchoToFile import SysEchoToFile
 
 
 class ConservationMode:
