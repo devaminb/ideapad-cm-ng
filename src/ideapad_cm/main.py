@@ -2,8 +2,8 @@
 
 import click
 
-from battery.Battery import Battery
-from battery.CantReadStatusError import CantReadStatusError
+from ideapad_cm.battery.Battery import Battery
+from ideapad_cm.battery.CantReadStatusError import CantReadStatusError
 
 
 @click.group()

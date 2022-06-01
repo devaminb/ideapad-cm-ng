@@ -1,5 +1,5 @@
-from src.battery.CantReadStatusError import CantReadStatusError
-from src.utils.SysEchoToFile import SysEchoToFile
+from ideapad_cm.battery.CantReadStatusError import CantReadStatusError
+from ideapad_cm.utils.SysEchoToFile import SysEchoToFile
 
 
 class ConservationMode:

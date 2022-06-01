@@ -1,4 +1,4 @@
-from src.battery.ConservationMode import ConservationMode
+from ideapad_cm.battery.ConservationMode import ConservationMode
 
 
 class Battery:

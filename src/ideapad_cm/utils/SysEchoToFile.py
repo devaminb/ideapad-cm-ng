@@ -1,4 +1,4 @@
-from src.utils.SysRunner import SysRunner
+from ideapad_cm.utils.SysRunner import SysRunner
 
 
 class SysEchoToFile(SysRunner):
