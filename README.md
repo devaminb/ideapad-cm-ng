@@ -13,6 +13,41 @@
 :computer: A rewrite of `ideapad-cm` in Python with improved systemd
 and GNOME 3 integration.
 
+## Should you use it?
+
+If you use a Lenovo IdeaPad laptop and a GNU/Linux distribution, then
+you definitely need to install this tool!
+
+Battery conservation mode always keeps your battery charged around
+60%. Your battery will last longer.
+
+## Installation
+
+The easiest installation method is to use
+[pipx](https://github.com/pypa/pipx). Make sure to run `pipx ensurepath`
+after installing pipx.
+
+```shell
+pipx install ideapad-cm
+```
+
+## Usage
+
+As of version 0.1.2, only 3 commands are supported.
+
+### `ideapad-cm enable`
+
+This command enables the battery conservation mode.
+
+### `ideapad-cm disable`
+
+This command disables the battery conservation mode.
+
+### `ideapad-cm status`
+
+This command lets you know if the battery conservation mode is enabled
+or disabled.
+
 ## Motivation
 
 `ideapad-cm` is a popular Bash script that I have used for years to
