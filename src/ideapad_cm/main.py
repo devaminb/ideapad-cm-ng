@@ -7,6 +7,7 @@ from ideapad_cm.battery.CantReadStatusError import CantReadStatusError
 
 
 @click.group()
+@click.version_option(package_name="ideapad-cm", prog_name="ideapad-cm")
 def cli():
     pass
 
