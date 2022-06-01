@@ -88,3 +88,11 @@ install my new tool. If you have existing scripts that call `ideapad-cm`,
 you don't need to change anything. The basic interface will be the same.
 
 I'm building this tool for my own personal use. Use it at your own risk.
+
+## Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://makeapullrequest.com)
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+## License [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE)
+file for details.
