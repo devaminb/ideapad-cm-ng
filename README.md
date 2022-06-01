@@ -1,5 +1,13 @@
 # `ideapad-cm` rewrite
 
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/devaminb/ideapad-cm-rewrite/graphs/commit-activity)
+![GitHub last commit](https://img.shields.io/github/last-commit/devaminb/ideapad-cm-rewrite)
+[![GitHub license](https://img.shields.io/github/license/devaminb/ideapad-cm-rewrite)](https://github.com/devaminb/ideapad-cm-rewrite/blob/main/LICENSE)
+[![HitCount](https://hits.dwyl.com/devaminb/ideapad-cm-rewrite.svg?style=flat)](http://hits.dwyl.com/devaminb/ideapad-cm-rewrite)
+
+![CLI Demo](cli.gif "ideapad-cm demonstration")
+
 > :warning: **USE AT YOUR OWN RISK!**
 
 :computer: A rewrite of `ideapad-cm` in Python with improved systemd
