@@ -33,7 +33,7 @@ pipx install ideapad-cm
 
 ## Usage
 
-As of version 0.1.2, only 3 commands are supported.
+As of version 0.1.3, only 3 commands are supported.
 
 ### `ideapad-cm enable`
 
