@@ -1,7 +1,9 @@
 # `ideapad-cm` rewrite
 
+> :no_entry: **I stopped using GNU/Linux. I will not continue working on this script.** :no_entry:
+
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/devaminb/ideapad-cm-rewrite/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/devaminb/ideapad-cm-rewrite/graphs/commit-activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devaminb/ideapad-cm-rewrite)
 [![GitHub license](https://img.shields.io/github/license/devaminb/ideapad-cm-rewrite)](https://github.com/devaminb/ideapad-cm-rewrite/blob/main/LICENSE)
 [![HitCount](https://hits.dwyl.com/devaminb/ideapad-cm-rewrite.svg?style=flat)](http://hits.dwyl.com/devaminb/ideapad-cm-rewrite)
