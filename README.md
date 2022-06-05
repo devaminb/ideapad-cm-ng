@@ -12,7 +12,7 @@
 
 > ⚠️ **USE AT YOUR OWN RISK!**
 
-:computer: A rewrite of `ideapad-cm` in Python with improved systemd
+💻 A rewrite of `ideapad-cm` in Python with improved systemd
 and GNOME 3 integration.
 
 ## Should you use it?
