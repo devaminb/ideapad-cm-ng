@@ -1,4 +1,4 @@
-# `ideapad-cm` rewrite
+# `ideapad-cm` next generation
 
 > :no_entry: **I stopped using GNU/Linux. I will not continue working on this script.** :no_entry:
 
