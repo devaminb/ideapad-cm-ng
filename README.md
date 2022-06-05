@@ -12,8 +12,8 @@
 
 > ⚠️ **USE AT YOUR OWN RISK!**
 
-💻 A rewrite of `ideapad-cm` in Python with improved systemd
-and GNOME 3 integration.
+💻 Windows and Linux CLI to enable/disable battery conservation mode
+in Lenovo IdeaPad laptops. (Lenovo Vantage alternative)
 
 ## Should you use it?
 
