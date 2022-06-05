@@ -1,6 +1,6 @@
 # `ideapad-cm` next generation
 
-> :no_entry: **I stopped using GNU/Linux. I will not continue working on this script.** :no_entry:
+> ⛔ **I stopped using GNU/Linux. I will not continue working on this script.** ⛔
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/devaminb/ideapad-cm-rewrite/graphs/commit-activity)
@@ -10,7 +10,7 @@
 
 ![CLI Demo](cli.gif "ideapad-cm demonstration")
 
-> :warning: **USE AT YOUR OWN RISK!**
+> ⚠️ **USE AT YOUR OWN RISK!**
 
 :computer: A rewrite of `ideapad-cm` in Python with improved systemd
 and GNOME 3 integration.
