@@ -1,7 +1,5 @@
 # `ideapad-cm` next generation
 
-> ⛔ **I stopped using GNU/Linux. I will not continue working on this script.** ⛔
-
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/devaminb/ideapad-cm-rewrite/graphs/commit-activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devaminb/ideapad-cm-rewrite)
